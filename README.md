@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm a full-stack software developer and Software Engineering student. I specialize in Java and have some experience with Python after creating some ML projects using Tensorflow, and now I'm diving into learning Rust. Experienced in building robust backend applications using Spring Boot, and some small projects using C++ and Assembly. I'm enthusiastic about exploring new challenges and contributing to innovative projects. Electronics is my hobby.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
