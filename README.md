@@ -1,7 +1,7 @@
 ## Hi there 👋! 
 
-I'm a full-stack software developer and Software Engineering student. Currently interested in AI and hacking, electronics are my hobby. I'm enthusiastic 
-about exploring new challenges and contributing to innovative projects.
+I'm a full-stack software developer and Software Engineering student. Enthusiastic about exploring new challenges and contributing to innovative projects.
+
 Experienced in building robust backend applications using Spring Boot, and some small projects ML using Tensorflow. I also used C/C++ and Assembly to 
 make some low level programming projects.
 
