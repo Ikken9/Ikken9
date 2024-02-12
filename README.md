@@ -1,6 +1,15 @@
-### Hi there! 
+## Hi there 👋! 
 
-I'm a full-stack software developer and Software Engineering student. I specialize in Java and have some experience with Python after creating some ML projects using Tensorflow, and now I'm diving into learning Rust. Experienced in building robust backend applications using Spring Boot, and some small projects using C++ and Assembly. I'm enthusiastic about exploring new challenges and contributing to innovative projects. Electronics is my hobby.
+I'm a full-stack software developer and Software Engineering student. Currently interested in AI and hacking, electronics are my hobby. I'm enthusiastic 
+about exploring new challenges and contributing to innovative projects.
+Experienced in building robust backend applications using Spring Boot, and some small projects ML using Tensorflow. I also used C/C++ and Assembly to 
+make some low level programming projects.
+
+🔭 I'm currently looking for a job!
+
+🌱 I'm diving into learning Rust and Go.
+
+### Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -11,4 +20,7 @@ I'm a full-stack software developer and Software Engineering student. I speciali
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
