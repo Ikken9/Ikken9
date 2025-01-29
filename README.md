@@ -10,7 +10,7 @@ Constantly learning and improving my skills every day!
 
 🔭 I'm currently looking for a job!
 
-🌱 I'm diving into cybersecurity and also learning Rust and Gleam.
+🌱 I'm diving into cybersecurity and also learning Rust.
 
 
 ### Technologies
